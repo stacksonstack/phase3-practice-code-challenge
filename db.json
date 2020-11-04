@@ -2,7 +2,7 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "Cinimon Spice",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
@@ -19,6 +19,54 @@
       "id": 4,
       "title": "Five Spice",
       "image": "./assets/spices/fivespice.jpg"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "title": "title",
+      "id": 13
+    },
+    {
+      "title": "hey",
+      "id": 14
+    },
+    {
+      "title": "hey",
+      "id": 15
+    },
+    {
+      "title": "hey",
+      "id": 16
+    },
+    {
+      "title": "hey",
+      "id": 17
+    },
+    {
+      "title": "hey",
+      "id": 18
     }
   ],
   "ingredients": [
@@ -106,6 +154,26 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "New",
+      "spiceblendId": 1,
+      "id": 18
+    },
+    {
+      "name": "new",
+      "spiceblendId": 1,
+      "id": 19
+    },
+    {
+      "name": "new",
+      "spiceblendId": 1,
+      "id": 20
+    },
+    {
+      "name": "new",
+      "spiceblendId": 1,
+      "id": 21
     }
   ]
 }
